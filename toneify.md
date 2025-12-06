@@ -32,7 +32,7 @@ Because Toneify’s processing servers are located in the United States, your ph
 Since Toneify does not store personal data or maintain user accounts, there are limited rights or choices to exercise. You may withdraw consent for processing at any time by uninstalling the App or choosing not to upload content. If you have questions about your data, you can reach out using the contact information below.
 
 ## Contact Us
-If you have any questions or concerns about this Privacy Policy or Toneify’s data practices, please contact us at kaiwantsai3407@gmail.com.
+If you have any questions or concerns about this Privacy Policy or Toneify’s data practices, please contact us at kaihuancai@gmail.com.
 
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. If changes are made, we will update the “Last updated” date at the top of this policy. Continued use of the App after an update constitutes acceptance of the revised policy.
