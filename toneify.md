@@ -1,6 +1,6 @@
 # Toneify Privacy Policy
 
-_Last updated: October 26, 2025_
+_Last updated: December 19, 2025_
 
 Toneify ("the App") provides AI-assisted color grading for user photos. This Privacy Policy explains how the App collects, uses, and protects information when you interact with it.
 
