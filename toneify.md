@@ -1,6 +1,6 @@
 # Toneify Privacy Policy
 
-_Last updated: December 19, 2025_
+_Last updated: 2026/1/1_
 
 Toneify ("the App") provides AI-assisted color grading for user photos. This Privacy Policy explains how the App collects, uses, and protects information when you interact with it.
 
@@ -19,7 +19,10 @@ To deliver the AI color grading service, the App also temporarily collects:
 ## How We Use Information
 We use Firebase to authenticate users and store account-related data (username, email, user ID, credits, purchase history) to provide a personalized experience and manage your credits.
 
-The App encrypts the uploaded photo and style description and transmits them to a Toneify processing service located in the United States. The server uses this information solely to generate a color-graded version of the photo and returns the result to the App. We do not use your data for analytics, advertising, or other secondary purposes.
+The App encrypts the uploaded photo and style description and transmits them to a Toneify processing service located in the United States. The server uses this information solely to generate a color-graded version of the photo and returns the result to the App. We do not use your uploaded photo content for analytics, advertising, or other secondary purposes.
+
+## Analytics and Advertising
+We use the Facebook SDK to track app installations and measure the effectiveness of our advertising campaigns on Meta platforms (Facebook, Instagram). This allows us to understand how users find our App and improve our marketing efforts. The Facebook SDK may collect information such as your device identifier, IP address, and app installation events. This data is processed in accordance with Meta's Privacy Policy.
 
 ## Data Storage and Retention
 **Account Data:** Account data (Username, Email, User ID, Credits, Purchase Records) is stored securely using Firebase. This data is retained indefinitely to maintain your account status and purchase history, unless you request deletion.
